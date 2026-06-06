@@ -1,0 +1,10 @@
+# Project Requirements
+
+Power BI Desktop
+PostgreSQL 14+
+CSV Dataset Files
+
+# Optional
+Git
+GitHub
+Microsoft Excel
