@@ -76,7 +76,8 @@ This dashboard was designed to:
 - Revenue increased by 28.8% Week-over-Week during Week 53.
 - Total revenue reached 57M.
 - Total transaction amount exceeded 46M.
-- Male customers contributed approximately 93% of overall transactions.
+- Male customers contributing more revenue 31M,female 26M
+- Blue & Silver credit card are contributing to 93% of overall transactions
 - Texas, New York, and California generated nearly 68% of total revenue.
 - Customer activation rate remained strong at 57.5%.
 - Delinquent accounts represented 6.06% of the customer base.
